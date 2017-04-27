@@ -2,7 +2,7 @@ html
 
 body {
       background: url(https://pbs.twimg.com/profile_images/1432910936/peg333333.JPG);
-      background-size: cover;
+      background-size: 100%;
       background-repeat: no-repeat;
       font-family:Impact;
       color:red;
