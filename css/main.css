@@ -1,7 +1,8 @@
 html
 
 body {
-      background:black;
+      background: url(https://img.clipartfest.com/9e1e988e66a605968faf4339037c092c_crowd-crowd_1600-884.png);
+      background-position: fixed
       font-family:Impact;
       color:red;
      }
