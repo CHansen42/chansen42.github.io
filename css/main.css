@@ -7,7 +7,9 @@ html
 
 body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
-  background: url(http://www.bounceschool.com/wp-content/uploads/2014/08/handsbackground.jpg) fixed;
+  background-image: url(http://www.bounceschool.com/wp-content/uploads/2014/08/handsbackground.jpg;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   color: #FFF;}
 
 p
