@@ -2,7 +2,7 @@ html
 
 body {
       background: url(https://i.gyazo.com/e387b64f9b59f0db1e3d8000a4a9b1e8.jpg);
-      background-size: cover;
+      background-size: contain;
       background-repeat: no-repeat;
       font-family:Impact;
       color:red;
